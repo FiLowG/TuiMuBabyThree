@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "277282166081",
+    "firebase_url": "https://blind-bags-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "blind-bags",
+    "storage_bucket": "blind-bags.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:277282166081:android:7c82f2fa4efae2b218fdc0",
+        "android_client_info": {
+          "package_name": "com.FiLowGStudio.BlindBags"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "277282166081-4511csn498sl20a90348beuf1nlb8gtr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSN57HEA2XNzauFMYZjcHMrnKEvYDwdvQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "277282166081-4511csn498sl20a90348beuf1nlb8gtr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
