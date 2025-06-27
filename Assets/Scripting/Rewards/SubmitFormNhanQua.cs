@@ -21,8 +21,7 @@ public class SubmitFormNhanQua : MonoBehaviour
     private string userID;
     private OnBuyFromDB OnBuy;
     // Bot Telegram
-    private string botToken = "7897351390:AAFx-2tIVR8moFzvZZfA95ZtSZkrWhq1veM";
-    private string chatId = "2090184835";
+    
     public GameObject PopUp_Notice;
     public Text NoticeText;
     public Text NoticeText2;
